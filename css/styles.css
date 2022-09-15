@@ -1,0 +1,24 @@
+body {
+  background-color: lavenderblush;
+}
+
+h1 {
+  color: #FFC090;
+  font-style: italic;
+}
+
+h3 {
+  color: #FFC090;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.circular {
+  border-radius: 100%;
+}
